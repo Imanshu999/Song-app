@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Sonora mark in deep slate for the Pearl icon variant. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:pathData="M29,63V45a4,4 0,0 1,8 0v18a4,4 0,0 1,-8 0z M43,73V35a4,4 0,0 1,8 0v38a4,4 0,0 1,-8 0z M57,80V28a4,4 0,0 1,8 0v52a4,4 0,0 1,-8 0z M71,66V42a4,4 0,0 1,8 0v24a4,4 0,0 1,-8 0z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="54"
+                android:startY="24"
+                android:endX="54"
+                android:endY="84"
+                android:startColor="#FF202635"
+                android:endColor="#FF202635" />
+        </aapt:attr>
+    </path>
+</vector>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Sonora mark in brushed gold. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:pathData="M29,63V45a4,4 0,0 1,8 0v18a4,4 0,0 1,-8 0z M43,73V35a4,4 0,0 1,8 0v38a4,4 0,0 1,-8 0z M57,80V28a4,4 0,0 1,8 0v52a4,4 0,0 1,-8 0z M71,66V42a4,4 0,0 1,8 0v24a4,4 0,0 1,-8 0z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="29"
+                android:startY="24"
+                android:endX="79"
+                android:endY="84">
+                <item android:offset="0" android:color="#FFFFE7A3" />
+                <item android:offset="0.5" android:color="#FFE0A93B" />
+                <item android:offset="1" android:color="#FF9C6A1C" />
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>

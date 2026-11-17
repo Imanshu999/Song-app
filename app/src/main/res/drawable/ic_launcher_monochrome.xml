@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The Sonora mark alone, for themed monochrome icons. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M29,63V45a4,4 0,0 1,8 0v18a4,4 0,0 1,-8 0z M43,73V35a4,4 0,0 1,8 0v38a4,4 0,0 1,-8 0z M57,80V28a4,4 0,0 1,8 0v52a4,4 0,0 1,-8 0z M71,66V42a4,4 0,0 1,8 0v24a4,4 0,0 1,-8 0z" />
+</vector>
